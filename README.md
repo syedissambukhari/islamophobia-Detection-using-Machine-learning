@@ -3,8 +3,11 @@
 #Ist install all the required libraries:
 ---------------------------------
 pip install cv2
+
 pip install pytesseract
+
 pip install joblib
+
 _________________________________________________________________________________________________
 SVM model to detect islamophobic text in the picture. and CNN model to detect islamophobic nature in image
 ----------------------------------------------------
