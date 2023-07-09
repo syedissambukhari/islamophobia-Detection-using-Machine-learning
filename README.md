@@ -1,16 +1,10 @@
 # islamophobia detection
-#Ist install all the require libraries:
-import os
-import cv2
-import pytesseract
-import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-import joblib
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
-import tensorflow.keras as keras
+------------------------------------
+#Ist install all the required libraries:
+---------------------------------
+pip install cv2
+pip install pytesseract
+pip install joblib
 _________________________________________________________________________________________________
 SVM model to detect islamophobic text in the picture. and CNN model to detect islamophobic nature in image
 ----------------------------------------------------
