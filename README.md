@@ -22,3 +22,5 @@ islamophobic_nature_folder = 'C:/Users/Syed Issam Bukhari/Documents/projects all
 not_islamophobic_nature_folder = 'C:/Users/Syed Issam Bukhari/Documents/projects all/projects/islamop/Memes/Non Islamophobic image'
 
 ----------------------------------------------------------------
+For CNN model visit googlr drive:
+https://drive.google.com/file/d/1213jo0D66g91Ptdg5pDE_mav5_bM1_t_/view?usp=sharing
