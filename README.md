@@ -23,4 +23,9 @@ not_islamophobic_nature_folder = 'C:/Users/Syed Issam Bukhari/Documents/projects
 
 ----------------------------------------------------------------
 For CNN model visit googlr drive:
-https://drive.google.com/file/d/1213jo0D66g91Ptdg5pDE_mav5_bM1_t_/view?usp=sharing
+https://drive.google.com/file/d/1-02VAykkgjDFQpyKdBZQI9ceHAm-z0mC/view?usp=sharing
+
+For cnn_dataset visit:
+[https://drive.google.com/file/d/1213jo0D66g91Ptdg5pDE_mav5_bM1_t_/view?usp=sharing](https://drive.google.com/drive/folders/11KYKMOclLERz_t2QMl4_7WdfL3VM8Psd?usp=sharing)https://drive.google.com/drive/folders/11KYKMOclLERz_t2QMl4_7WdfL3VM8Psd?usp=sharing
+For svc_dataset visit:
+https://drive.google.com/drive/folders/14heZaUjvMwvwO0lBa60No1r_4As0aS73?usp=sharing
