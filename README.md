@@ -33,3 +33,5 @@ For cnn_dataset visit:
 For svc_dataset visit:
 
 https://drive.google.com/drive/folders/14heZaUjvMwvwO0lBa60No1r_4As0aS73?usp=sharing
+
+All the important notes and details of project is availble in Important notes.docx 
